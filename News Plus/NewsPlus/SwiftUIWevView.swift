@@ -1,9 +1,6 @@
 //
 //  SwiftUIWevView.swift
 //  NewsPlus
-//
-//  Created by Akash on 09/12/20.
-//
 
 import Foundation
 import SwiftUI
