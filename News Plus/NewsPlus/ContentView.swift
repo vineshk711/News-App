@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  NewsPlus
 //
-//  Created by Akash on 09/12/20.
+//  Created by Vinesh on 09/12/20.
 //
 
 import SwiftUI
